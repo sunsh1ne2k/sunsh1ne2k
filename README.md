@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @sunsh1ne2k
 - 👀 I’m interested in Music, Game and Coding
-- 🌱 I’m currently learning Python Django, VueJS and AWS but I want to learn Unity to make interesting games by myself in the future
+- 🌱 I’m currently learning NodeJS, Python Django, React and AWS but I want to learn Unity to make interesting games by myself in the future
 - 💞️ I’m looking to collaborate on Pyhton Django project, Unity Game project. 
 - 📫 How to reach me 
-  - Gmail: tqluc01012000@gmail.com
+  - Gmail: tqlucitvn@gmail.com
   - Facebook: fb.com/01012KSSTM
   - Telegram : https://t.me/tql_wolfbrothers
 
